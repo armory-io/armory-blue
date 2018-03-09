@@ -1,9 +1,9 @@
 {
-    "name": "theme-cobalt2",
-    "displayName": "Cobalt2",
-    "description": "Cobalt2 for VS Code",
+    "name": "theme-armory-blue",
+    "displayName": "ArmoryBlue",
+    "description": "ArmoryBlue for VS Code",
     "version": "2.0.10",
-    "publisher": "wesbos",
+    "publisher": "jackreis",
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -16,9 +16,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Cobalt2",
+                "label": "ArmoryBlue",
                 "uiTheme": "vs-dark",
-                "path": "./cobalt2.tmTheme"
+                "path": "./armory-blue.tmTheme"
             }
         ]
     }

@@ -1,10 +1,10 @@
-# Cobalt2
+# Armory ST3
 
-A Sublime Text theme based on our old blue friend cobalt.
+A Sublime Text theme based on Cobalt2 by Wes Bos.
 
 A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full Sublime Text theme (sidebar, search, tabs, etc...) as well as support for SublimeLinter, git diffing and a growing number of plugins.
 
-See below for examples. [Read more at http://wesbos.com/cobalt2-theme-sublime-text-2/](http://wesbos.com/cobalt2-theme-sublime-text-2/)
+See below for more information on the original Cobalt2 theme. [Read more at http://wesbos.com/cobalt2-theme-sublime-text-2/](http://wesbos.com/cobalt2-theme-sublime-text-2/)
 
 ## Installation
 
