@@ -1,6 +1,6 @@
 # ArmoryBlue
 
-A Sublime Text theme based on Cobalt2 by Wes Bos.
+A Sublime Text theme based on Cobalt2 by Wes Bos. Imagine though, instead of yellow in all the below screenshots, that it's instead a lovely bright blue shade, as seen on [Armory.io](https://www.armory.io).
 
 A refined colour scheme that is easy on the eyes and takes small UI elements into account. Includes full Sublime Text theme (sidebar, search, tabs, etc...) as well as support for SublimeLinter, git diffing and a growing number of plugins.
 
