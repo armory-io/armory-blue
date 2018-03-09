@@ -1,4 +1,4 @@
-# Armory ST3
+# ArmoryBlue
 
 A Sublime Text theme based on Cobalt2 by Wes Bos.
 
