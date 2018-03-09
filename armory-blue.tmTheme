@@ -5,9 +5,9 @@
   <key>comment</key>
   <string>Created by Jack Reis.  Based on ‘Cobalt2’ by Wes Bos.</string>
   <key>author</key>
-  <string>Wes Bos</string>
+  <string>Jack Reis</string>
   <key>name</key>
-  <string>cobalt2</string>
+  <string>ArmoryBlue</string>
   <key>settings</key>
   <array>
     <dict>
@@ -884,7 +884,7 @@
        <string>#2AFFDF</string>
      </dict>
    </dict>
-    
+
    <dict>
      <key>name</key>
      <string>Object Keys - strings</string>
@@ -973,7 +973,7 @@
       <string>#4ec1e0</string>
     </dict>
   </dict>
-    
+
   <dict>
     <key>name</key>
     <string>Template Literals - language</string>
@@ -1032,7 +1032,7 @@
        <string>#2AFFDF</string>
      </dict>
    </dict>
-    
+
    <dict>
      <key>name</key>
      <string>Object Keys - strings</string>
