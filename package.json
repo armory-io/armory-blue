@@ -1,7 +1,7 @@
 {
-    "name": "theme-armory-st3",
-    "displayName": "Armory-st3",
-    "description": "Armory-st3 for VS Code",
+    "name": "theme-armory-blue",
+    "displayName": "ArmoryBlue",
+    "description": "ArmoryBlue for VS Code",
     "version": "2.0.10",
     "publisher": "jackreis",
     "engines": {
@@ -16,9 +16,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Armory-st3",
+                "label": "ArmoryBlue",
                 "uiTheme": "vs-dark",
-                "path": "./armory-st3.tmTheme"
+                "path": "./armory-blue.tmTheme"
             }
         ]
     }
